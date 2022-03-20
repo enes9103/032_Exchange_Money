@@ -1,4 +1,5 @@
 # 032_Exchange_Money
+![Form](Animation.gif)
 
 ## Exchange Rate Project Properties
 
